@@ -1,0 +1,7 @@
+title:D2 Wishlist 
+
+// The Hothead - The Hothead - Solar 3.0 Warlock (god-pve)
+//notes: https://d2foundry.gg/w/4255171531 tags:god-pve
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,3194351027
+
+
