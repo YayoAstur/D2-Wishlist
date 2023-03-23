@@ -4,4 +4,8 @@ title:D2 Wishlist
 //notes: Test Yayo
 dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,3194351027
 
+// Retrofit Escapade - TEST
+//notes: Test 123
+dimwishlist:item=3103325054&perks=1467527085,106909392,1354429876,4049631843,192157151
+
 
