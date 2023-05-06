@@ -1,11 +1,45 @@
 title:D2 Wishlist 
 
 // The Hothead - The Hothead - Solar 3.0 Warlock (god-pve)
-//notes: Test Yayo
+//notes: Yayo
 dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,3194351027
 
-// Retrofit Escapade - TEST
-//notes: Test 123
-dimwishlist:item=3103325054&perks=1467527085,106909392,1354429876,4049631843,192157151
+// The Title - God Rolls 5/5 PVP
+//notes: PVP
+dimwishlist:item=3559361670&perks=1467527085,1561002382,1428297954,2846385770
 
+// The Title - God Rolls 5/5 PVE
+//notes: PVE
+dimwishlist:item=3559361670&perks=1467527085,1561002382,1428297954,776531651
 
+// The Title - PVE
+//notes: PVE
+dimwishlist:item=3559361670&perks=1467527085,1561002382,968510818,776531651
+
+// Taraxippo - PVE God Rolls
+//notes: PVE God Rolls
+dimwishlist:item=1389546626&perks=839105230,3142289711,2387244414,1015611457
+
+// Taraxippo - PVE
+//notes: PVE 
+dimwishlist:item=1389546626&perks=839105230,3142289711,1354429876,831391274
+
+// Taraxippo - PVE/PVP
+//notes: PVE/PVP
+dimwishlist:item=1389546626&perks=839105230,3142289711,1365187766,3038247973
+
+// Taraxippo - PVP
+//notes: PVP
+dimwishlist:item=1389546626&perks=839105230,3142289711,588594999,3751912585
+
+// Taraxippo - PVP
+//notes: PVP
+dimwishlist:item=1389546626&perks=839105230,3142289711,588594999,3751912585
+
+// Taraxippo - PVP
+//notes: PVP
+dimwishlist:item=1389546626&perks=839105230,3142289711,2387244414,3751912585
+
+// Taraxippo - PVP
+//notes: PVP
+dimwishlist:item=1389546626&perks=839105230,3142289711,1168162263,1015611457
